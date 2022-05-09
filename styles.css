@@ -1,0 +1,13 @@
+.header{
+    border-style: groove;
+    color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: oblique;
+    font-size: 55px;
+}
+
+.main-recipe{
+    color: firebrick;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
