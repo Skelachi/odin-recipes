@@ -7,7 +7,7 @@
     font-size: 55px;
 }
 
-div.Box {
+div.FrontBox {
     display: block;
     margin:auto;
     border: 3px black;
@@ -60,6 +60,27 @@ a.FrontPage3{
     border: 3px black;
     border-style: dashed;
     margin: auto;
+    margin-bottom: 10px;
 
 }
 
+img.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+    border: 10px blueviolet;
+    border-style: double;
+}
+
+h3.recipename {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+div.recipe {
+    display: block;
+}
