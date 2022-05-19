@@ -53,4 +53,5 @@ h3.recipename {
 
 div.recipe {
     display: block;
+    border: 2px red;
 }
