@@ -9,12 +9,13 @@
 
 div.recipe {
     display: block;
-    width: 10000px;
+    width: 1000px;
     background-color: salmon;
     border: 10px black;
     border-style: groove;
     margin-bottom: 20px;
     padding-left: 15px;
+    margin:auto;
 }
 
 div.FrontBox {
@@ -38,9 +39,6 @@ a.FrontPage{
     border-style: dashed;
     margin: auto;
     margin-bottom: 10px;
-
-
-
 
 }
 
