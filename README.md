@@ -1,4 +1,4 @@
-# odin-recipes
+# Skelachi's Slow Cooker Recipes - The Odin Project
 First Odin Project of making a recipe HTML page.
 
 This will be my first mini-project of creating a website outside of my main 'Tom's Programming Dump website. This will test me on adding imnages, lists and using links to other pages.
